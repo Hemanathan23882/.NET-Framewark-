@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Store Sales Trend Analysis\Store Sales Trend Analysis\bin\Debug\net10.0\Store Sales Trend Analysis.exe
+C:\Users\Student\source\repos\Store Sales Trend Analysis\Store Sales Trend Analysis\bin\Debug\net10.0\Store Sales Trend Analysis.deps.json
+C:\Users\Student\source\repos\Store Sales Trend Analysis\Store Sales Trend Analysis\bin\Debug\net10.0\Store Sales Trend Analysis.runtimeconfig.json
+C:\Users\Student\source\repos\Store Sales Trend Analysis\Store Sales Trend Analysis\bin\Debug\net10.0\Store Sales Trend Analysis.dll
+C:\Users\Student\source\repos\Store Sales Trend Analysis\Store Sales Trend Analysis\bin\Debug\net10.0\Store Sales Trend Analysis.pdb
+C:\Users\Student\source\repos\Store Sales Trend Analysis\Store Sales Trend Analysis\obj\Debug\net10.0\Store Sales Trend Analysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Store Sales Trend Analysis\Store Sales Trend Analysis\obj\Debug\net10.0\Store Sales Trend Analysis.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Store Sales Trend Analysis\Store Sales Trend Analysis\obj\Debug\net10.0\Store Sales Trend Analysis.AssemblyInfo.cs
+C:\Users\Student\source\repos\Store Sales Trend Analysis\Store Sales Trend Analysis\obj\Debug\net10.0\Store Sales Trend Analysis.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Store Sales Trend Analysis\Store Sales Trend Analysis\obj\Debug\net10.0\Store Sales Trend Analysis.dll
+C:\Users\Student\source\repos\Store Sales Trend Analysis\Store Sales Trend Analysis\obj\Debug\net10.0\refint\Store Sales Trend Analysis.dll
+C:\Users\Student\source\repos\Store Sales Trend Analysis\Store Sales Trend Analysis\obj\Debug\net10.0\Store Sales Trend Analysis.pdb
+C:\Users\Student\source\repos\Store Sales Trend Analysis\Store Sales Trend Analysis\obj\Debug\net10.0\Store Sales Trend Analysis.genruntimeconfig.cache
+C:\Users\Student\source\repos\Store Sales Trend Analysis\Store Sales Trend Analysis\obj\Debug\net10.0\ref\Store Sales Trend Analysis.dll

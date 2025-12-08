@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Device Health Monitoring System\Device Health Monitoring System\bin\Debug\net10.0\Device Health Monitoring System.exe
+C:\Users\Student\source\repos\Device Health Monitoring System\Device Health Monitoring System\bin\Debug\net10.0\Device Health Monitoring System.deps.json
+C:\Users\Student\source\repos\Device Health Monitoring System\Device Health Monitoring System\bin\Debug\net10.0\Device Health Monitoring System.runtimeconfig.json
+C:\Users\Student\source\repos\Device Health Monitoring System\Device Health Monitoring System\bin\Debug\net10.0\Device Health Monitoring System.dll
+C:\Users\Student\source\repos\Device Health Monitoring System\Device Health Monitoring System\bin\Debug\net10.0\Device Health Monitoring System.pdb
+C:\Users\Student\source\repos\Device Health Monitoring System\Device Health Monitoring System\obj\Debug\net10.0\Device Health Monitoring System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Device Health Monitoring System\Device Health Monitoring System\obj\Debug\net10.0\Device Health Monitoring System.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Device Health Monitoring System\Device Health Monitoring System\obj\Debug\net10.0\Device Health Monitoring System.AssemblyInfo.cs
+C:\Users\Student\source\repos\Device Health Monitoring System\Device Health Monitoring System\obj\Debug\net10.0\Device Health Monitoring System.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Device Health Monitoring System\Device Health Monitoring System\obj\Debug\net10.0\Device Health Monitoring System.dll
+C:\Users\Student\source\repos\Device Health Monitoring System\Device Health Monitoring System\obj\Debug\net10.0\refint\Device Health Monitoring System.dll
+C:\Users\Student\source\repos\Device Health Monitoring System\Device Health Monitoring System\obj\Debug\net10.0\Device Health Monitoring System.pdb
+C:\Users\Student\source\repos\Device Health Monitoring System\Device Health Monitoring System\obj\Debug\net10.0\Device Health Monitoring System.genruntimeconfig.cache
+C:\Users\Student\source\repos\Device Health Monitoring System\Device Health Monitoring System\obj\Debug\net10.0\ref\Device Health Monitoring System.dll

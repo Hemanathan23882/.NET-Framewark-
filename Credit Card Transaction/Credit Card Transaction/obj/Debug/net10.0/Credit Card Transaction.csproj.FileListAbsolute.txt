@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Credit Card Transaction\Credit Card Transaction\bin\Debug\net10.0\Credit Card Transaction.exe
+C:\Users\Student\source\repos\Credit Card Transaction\Credit Card Transaction\bin\Debug\net10.0\Credit Card Transaction.deps.json
+C:\Users\Student\source\repos\Credit Card Transaction\Credit Card Transaction\bin\Debug\net10.0\Credit Card Transaction.runtimeconfig.json
+C:\Users\Student\source\repos\Credit Card Transaction\Credit Card Transaction\bin\Debug\net10.0\Credit Card Transaction.dll
+C:\Users\Student\source\repos\Credit Card Transaction\Credit Card Transaction\bin\Debug\net10.0\Credit Card Transaction.pdb
+C:\Users\Student\source\repos\Credit Card Transaction\Credit Card Transaction\obj\Debug\net10.0\Credit Card Transaction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Credit Card Transaction\Credit Card Transaction\obj\Debug\net10.0\Credit Card Transaction.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Credit Card Transaction\Credit Card Transaction\obj\Debug\net10.0\Credit Card Transaction.AssemblyInfo.cs
+C:\Users\Student\source\repos\Credit Card Transaction\Credit Card Transaction\obj\Debug\net10.0\Credit Card Transaction.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Credit Card Transaction\Credit Card Transaction\obj\Debug\net10.0\Credit Card Transaction.dll
+C:\Users\Student\source\repos\Credit Card Transaction\Credit Card Transaction\obj\Debug\net10.0\refint\Credit Card Transaction.dll
+C:\Users\Student\source\repos\Credit Card Transaction\Credit Card Transaction\obj\Debug\net10.0\Credit Card Transaction.pdb
+C:\Users\Student\source\repos\Credit Card Transaction\Credit Card Transaction\obj\Debug\net10.0\Credit Card Transaction.genruntimeconfig.cache
+C:\Users\Student\source\repos\Credit Card Transaction\Credit Card Transaction\obj\Debug\net10.0\ref\Credit Card Transaction.dll
