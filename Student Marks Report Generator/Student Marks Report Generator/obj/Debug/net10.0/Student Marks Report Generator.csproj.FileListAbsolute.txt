@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Student Marks Report Generator\Student Marks Report Generator\bin\Debug\net10.0\Student Marks Report Generator.exe
+C:\Users\Student\source\repos\Student Marks Report Generator\Student Marks Report Generator\bin\Debug\net10.0\Student Marks Report Generator.deps.json
+C:\Users\Student\source\repos\Student Marks Report Generator\Student Marks Report Generator\bin\Debug\net10.0\Student Marks Report Generator.runtimeconfig.json
+C:\Users\Student\source\repos\Student Marks Report Generator\Student Marks Report Generator\bin\Debug\net10.0\Student Marks Report Generator.dll
+C:\Users\Student\source\repos\Student Marks Report Generator\Student Marks Report Generator\bin\Debug\net10.0\Student Marks Report Generator.pdb
+C:\Users\Student\source\repos\Student Marks Report Generator\Student Marks Report Generator\obj\Debug\net10.0\Student Marks Report Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Student Marks Report Generator\Student Marks Report Generator\obj\Debug\net10.0\Student Marks Report Generator.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Student Marks Report Generator\Student Marks Report Generator\obj\Debug\net10.0\Student Marks Report Generator.AssemblyInfo.cs
+C:\Users\Student\source\repos\Student Marks Report Generator\Student Marks Report Generator\obj\Debug\net10.0\Student Marks Report Generator.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Student Marks Report Generator\Student Marks Report Generator\obj\Debug\net10.0\Student Marks Report Generator.dll
+C:\Users\Student\source\repos\Student Marks Report Generator\Student Marks Report Generator\obj\Debug\net10.0\refint\Student Marks Report Generator.dll
+C:\Users\Student\source\repos\Student Marks Report Generator\Student Marks Report Generator\obj\Debug\net10.0\Student Marks Report Generator.pdb
+C:\Users\Student\source\repos\Student Marks Report Generator\Student Marks Report Generator\obj\Debug\net10.0\Student Marks Report Generator.genruntimeconfig.cache
+C:\Users\Student\source\repos\Student Marks Report Generator\Student Marks Report Generator\obj\Debug\net10.0\ref\Student Marks Report Generator.dll
