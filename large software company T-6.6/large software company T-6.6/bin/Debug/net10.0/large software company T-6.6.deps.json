@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "large software company T-6.6/1.0.0": {
+        "runtime": {
+          "large software company T-6.6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "large software company T-6.6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

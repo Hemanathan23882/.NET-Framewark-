@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\large software company T-6.6\large software company T-6.6\bin\Debug\net10.0\large software company T-6.6.exe
+C:\Users\Student\source\repos\large software company T-6.6\large software company T-6.6\bin\Debug\net10.0\large software company T-6.6.deps.json
+C:\Users\Student\source\repos\large software company T-6.6\large software company T-6.6\bin\Debug\net10.0\large software company T-6.6.runtimeconfig.json
+C:\Users\Student\source\repos\large software company T-6.6\large software company T-6.6\bin\Debug\net10.0\large software company T-6.6.dll
+C:\Users\Student\source\repos\large software company T-6.6\large software company T-6.6\bin\Debug\net10.0\large software company T-6.6.pdb
+C:\Users\Student\source\repos\large software company T-6.6\large software company T-6.6\obj\Debug\net10.0\large software company T-6.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\large software company T-6.6\large software company T-6.6\obj\Debug\net10.0\large software company T-6.6.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\large software company T-6.6\large software company T-6.6\obj\Debug\net10.0\large software company T-6.6.AssemblyInfo.cs
+C:\Users\Student\source\repos\large software company T-6.6\large software company T-6.6\obj\Debug\net10.0\large software company T-6.6.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\large software company T-6.6\large software company T-6.6\obj\Debug\net10.0\large software company T-6.6.dll
+C:\Users\Student\source\repos\large software company T-6.6\large software company T-6.6\obj\Debug\net10.0\refint\large software company T-6.6.dll
+C:\Users\Student\source\repos\large software company T-6.6\large software company T-6.6\obj\Debug\net10.0\large software company T-6.6.pdb
+C:\Users\Student\source\repos\large software company T-6.6\large software company T-6.6\obj\Debug\net10.0\large software company T-6.6.genruntimeconfig.cache
+C:\Users\Student\source\repos\large software company T-6.6\large software company T-6.6\obj\Debug\net10.0\ref\large software company T-6.6.dll
