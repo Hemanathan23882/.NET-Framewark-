@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Smart Gadget Management T-2\Smart Gadget Management T-2\bin\Debug\net10.0\Smart Gadget Management T-2.exe
+C:\Users\Student\source\repos\Smart Gadget Management T-2\Smart Gadget Management T-2\bin\Debug\net10.0\Smart Gadget Management T-2.deps.json
+C:\Users\Student\source\repos\Smart Gadget Management T-2\Smart Gadget Management T-2\bin\Debug\net10.0\Smart Gadget Management T-2.runtimeconfig.json
+C:\Users\Student\source\repos\Smart Gadget Management T-2\Smart Gadget Management T-2\bin\Debug\net10.0\Smart Gadget Management T-2.dll
+C:\Users\Student\source\repos\Smart Gadget Management T-2\Smart Gadget Management T-2\bin\Debug\net10.0\Smart Gadget Management T-2.pdb
+C:\Users\Student\source\repos\Smart Gadget Management T-2\Smart Gadget Management T-2\obj\Debug\net10.0\Smart Gadget Management T-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Smart Gadget Management T-2\Smart Gadget Management T-2\obj\Debug\net10.0\Smart Gadget Management T-2.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Smart Gadget Management T-2\Smart Gadget Management T-2\obj\Debug\net10.0\Smart Gadget Management T-2.AssemblyInfo.cs
+C:\Users\Student\source\repos\Smart Gadget Management T-2\Smart Gadget Management T-2\obj\Debug\net10.0\Smart Gadget Management T-2.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Smart Gadget Management T-2\Smart Gadget Management T-2\obj\Debug\net10.0\Smart Gadget Management T-2.dll
+C:\Users\Student\source\repos\Smart Gadget Management T-2\Smart Gadget Management T-2\obj\Debug\net10.0\refint\Smart Gadget Management T-2.dll
+C:\Users\Student\source\repos\Smart Gadget Management T-2\Smart Gadget Management T-2\obj\Debug\net10.0\Smart Gadget Management T-2.pdb
+C:\Users\Student\source\repos\Smart Gadget Management T-2\Smart Gadget Management T-2\obj\Debug\net10.0\Smart Gadget Management T-2.genruntimeconfig.cache
+C:\Users\Student\source\repos\Smart Gadget Management T-2\Smart Gadget Management T-2\obj\Debug\net10.0\ref\Smart Gadget Management T-2.dll

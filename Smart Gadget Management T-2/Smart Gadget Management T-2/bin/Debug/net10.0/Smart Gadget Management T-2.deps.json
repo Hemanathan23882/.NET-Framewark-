@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Smart Gadget Management T-2/1.0.0": {
+        "runtime": {
+          "Smart Gadget Management T-2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Smart Gadget Management T-2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
