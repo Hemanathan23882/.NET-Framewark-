@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\TASK-7.3\TASK-7.3\bin\Debug\net10.0\TASK-7.3.exe
+C:\Users\Student\source\repos\TASK-7.3\TASK-7.3\bin\Debug\net10.0\TASK-7.3.deps.json
+C:\Users\Student\source\repos\TASK-7.3\TASK-7.3\bin\Debug\net10.0\TASK-7.3.runtimeconfig.json
+C:\Users\Student\source\repos\TASK-7.3\TASK-7.3\bin\Debug\net10.0\TASK-7.3.dll
+C:\Users\Student\source\repos\TASK-7.3\TASK-7.3\bin\Debug\net10.0\TASK-7.3.pdb
+C:\Users\Student\source\repos\TASK-7.3\TASK-7.3\obj\Debug\net10.0\TASK-7.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\TASK-7.3\TASK-7.3\obj\Debug\net10.0\TASK-7.3.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\TASK-7.3\TASK-7.3\obj\Debug\net10.0\TASK-7.3.AssemblyInfo.cs
+C:\Users\Student\source\repos\TASK-7.3\TASK-7.3\obj\Debug\net10.0\TASK-7.3.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\TASK-7.3\TASK-7.3\obj\Debug\net10.0\TASK-7.3.dll
+C:\Users\Student\source\repos\TASK-7.3\TASK-7.3\obj\Debug\net10.0\refint\TASK-7.3.dll
+C:\Users\Student\source\repos\TASK-7.3\TASK-7.3\obj\Debug\net10.0\TASK-7.3.pdb
+C:\Users\Student\source\repos\TASK-7.3\TASK-7.3\obj\Debug\net10.0\TASK-7.3.genruntimeconfig.cache
+C:\Users\Student\source\repos\TASK-7.3\TASK-7.3\obj\Debug\net10.0\ref\TASK-7.3.dll
